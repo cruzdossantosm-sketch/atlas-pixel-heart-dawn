@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Radar",
+      "hasCanvas": false,
+      "bodyTextLen": 1884,
+      "bodyTextHash": "55d7b5e7f7f1b82d47b555b4e6c9de8d7836687b149ac630873480e275e581da",
+      "bodyTextPrefix": "R Radar COMPARADOR DE OFERTAS Compare o mercado. Encontre o piso",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Radar",
+      "hasCanvas": false,
+      "bodyTextLen": 1874,
+      "bodyTextHash": "288b5e3d8e5137812bc5b6a56543f68a41c61ce3fe14f90294a442ec3f57e8b5",
+      "bodyTextPrefix": "R Radar COMPARADOR DE OFERTAS Compare o mercado. Encontre o piso",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
